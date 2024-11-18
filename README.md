@@ -1,4 +1,4 @@
-<img width="746" alt="Captura de pantalla 2024-11-18 a las 13 34 46" src="https://github.com/user-attachments/assets/1ce80977-47a7-45e7-a358-32ee0769fc51">
+<img width="815" alt="Captura de pantalla 2024-11-18 a las 16 12 09" src="https://github.com/user-attachments/assets/5a53624e-0afe-461b-9c64-f67088863985">
 
 # ¡Bienvenido a mi GitHub! 
 
