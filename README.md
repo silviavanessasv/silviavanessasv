@@ -1,7 +1,7 @@
-![Presentación portafolio creativo fotografía colección obras minimalista elegante gris negro-7](https://github.com/user-attachments/assets/04a68c85-7a1d-479f-a72f-e20962d27ddb)
 
 
-# ¡Bienvenido a mi GitHub! 🌟
+# ¡Bienvenido a mi GitHub! 🌟<img width="746" alt="Captura de pantalla 2024-11-18 a las 13 34 46" src="https://github.com/user-attachments/assets/1ce80977-47a7-45e7-a358-32ee0769fc51">
+
 
 Aquí encontrarás mis proyectos de **Diseño y Desarrollo Web**, donde combino creatividad, diseño y tecnología para ofrecer soluciones innovadoras y funcionales. 🚀
 
